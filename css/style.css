@@ -1,0 +1,15 @@
+h1, h2 {
+    margin-top: 100px;
+    text-align: center;
+}
+
+#password {
+    text-align: center;
+    margin-top: 10px;
+    color: red;
+    font-weight: bold;
+}
+
+p {
+    text-align: center;
+}
