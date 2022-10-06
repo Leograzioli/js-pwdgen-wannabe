@@ -17,9 +17,9 @@ console.log(userFavColor);
 
 //elaborazione
 //generate password by concatenate 
-const weakPassword = `your weak password is: ${userName}${userSurName}${userFavColor}21`
+const weakPassword = `your weak password is: ${userName}${userSurName}${userFavColor}21`;
 console.log(weakPassword);
 
 //output
 //write the result(const weakPassword) on client
-document.getElementById("password").innerHTML = weakPassword
+document.getElementById("password").innerHTML = weakPassword;
